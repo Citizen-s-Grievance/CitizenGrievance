@@ -1,0 +1,27 @@
+@import "tailwindcss";
+/* Configure Class-Based Dark Mode for Tailwind v4 */
+@variant dark (&:where(.dark, .dark *));
+@import "leaflet/dist/leaflet.css"; /*map*/
+@layer base {
+  body {
+    transition:
+      background-color 0.3s ease-in-out,
+      color 0.3s ease-in-out;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+  }
+}
+
+/* Custom Glassmorphism Utility Classes */
+@utility glass-light {
+  background: rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+@utility glass-dark {
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
