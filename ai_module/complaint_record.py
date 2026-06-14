@@ -21,39 +21,14 @@ def create_record(
 
     telangana_districts=[
 
-"Adilabad",
-"Bhadradri Kothagudem",
-"Hanamkonda",
-"Hyderabad",
-"Jagtial",
-"Jangaon",
-"Jayashankar Bhupalpally",
-"Jogulamba Gadwal",
-"Kamareddy",
-"Karimnagar",
-"Khammam",
-"Komaram Bheem Asifabad",
-"Mahabubabad",
-"Mahabubnagar",
-"Mancherial",
-"Medak",
-"Medchal-Malkajgiri",
-"Mulugu",
-"Nagarkurnool",
-"Nalgonda",
-"Narayanpet",
-"Nirmal",
-"Nizamabad",
-"Peddapalli",
-"Rajanna Sircilla",
-"Rangareddy",
-"Sangareddy",
-"Siddipet",
-"Suryapet",
-"Vikarabad",
-"Wanaparthy",
-"Warangal",
-"Yadadri Bhuvanagiri"
+  "Adilabad","Kumuram Bheem Asifabad","Mancherial","Nirmal",
+            "Nizamabad","Jagtial","Peddapalli","Kamareddy","Rajanna Sircilla",
+            "Karimnagar","Jayashankar Bhupalpally","Sangareddy","Medak",
+            "Siddipet","Jangaon","Hanumakonda","Warangal","Mulugu",
+            "Bhadradri Kothagudem","Khammam","Mahabubabad","Suryapet",
+            "Nalgonda","Yadadri Bhuvanagiri","Medchal Malkajgiri","Hyderabad",
+            "Ranga Reddy","Vikarabad","Mahabubnagar","Narayanpet",
+            "Jogulamba Gadwal","Wanaparthy","Nagarkurnool"
 
 ]
 
