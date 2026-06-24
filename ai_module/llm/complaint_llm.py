@@ -1,6 +1,6 @@
 import requests
 
-URL="https://industrial-briefly-kept-inspector.trycloudflare.com/generate" #/generate
+URL="https://wyoming-october-brilliant-spring.trycloudflare.com/generate" #/generate
 
 
 def generate_complaint(

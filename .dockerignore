@@ -1,0 +1,10 @@
+**/node_modules
+**/target
+**/.git
+**/.idea
+**/*.iml
+**/.env
+**/__pycache__
+**/*.pyc
+**/build
+**/dist
